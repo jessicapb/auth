@@ -3,7 +3,10 @@ $routes =[
     'home',
     'login',
     'auth',
+    'register',
+    'reg',
     'dashboard',
+    'logout',
     'error'
 ];
 
